@@ -1,0 +1,10 @@
+/.vs
+/entityFrameworkApp/bin
+/entityFrameworkApp/obj
+/Persistence/bin
+/Persistence/obj
+/entityFrameworkApp/*.user
+/UnitTests/bin
+/UnitTests/obj
+/DapperPersistence/obj
+/DapperPersistence/bin
